@@ -11,3 +11,5 @@ Currently supported identifiers:
 * PDB. [Protein Data Bank protein structure information](http://www.rcsb.org/pdb/static.do?p=home/faq.html)
 
 Please open an issue for additional identifiers and/or improvements in the regex patterns used.
+
+The software is released under a [MIT license](license.txt).
